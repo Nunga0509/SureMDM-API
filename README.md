@@ -1,1 +1,0 @@
-# SureMDM-API
